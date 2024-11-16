@@ -14340,3 +14340,6 @@
 0.0.0.0 prod-a4.applovin.com
 0.0.0.0 applovin.com
 0.0.0.0 adserver.targroup-media.de
+0.0.0.0 mjedge.net
+0.0.0.0 c754100808.mjedge.net
+0.0.0.0 *.mjedge.net
